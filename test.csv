@@ -1,0 +1,3 @@
+,domain,SPF,DKIM,DMARC
+0,nyu.edu,True,True,True
+1,mails.ucas.ac.cn,True,False,False
