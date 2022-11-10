@@ -10,9 +10,10 @@ def batch_processing(input_file, output_file):
         "DMARC": [],
     }
     with open(input_file) as f:
-        for domain in f:
+        for line in f:
             # result: [spf, dkim, dmarc]
-            domain = domain.strip()
+            #todo: for one line, check all domain for the college in one row
+            domain = line.split(" ")[0].strip()
             print(domain)
             result = check_dds(domain)
             d["domain"].append(domain)
@@ -25,8 +26,10 @@ def batch_processing(input_file, output_file):
     print(pd.read_csv(output_file))
     
 if __name__ == "__main__":
-    input = "test.txt"
-    output = "test.csv"
+    # input = "test.txt"
+    # output = "test.csv"
+    input = "Chinese_college_domains.txt"
+    output = "Chinese_college_authentication.csv"
     batch_processing(input, output)
             
 

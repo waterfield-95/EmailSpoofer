@@ -1,0 +1,791 @@
+No.,domain,name
+1,ahmu.edu.cn,Anhui Medical University
+2,ahnu.edu.cn,Anhui Normal University
+3,ahsdxy.ah.edu.cn,Anhui Technical College of Water Resources and Hydroelectric Power
+4,ahtcm.edu.cn,Anhui University of Traditional Chinese Medicine
+5,ahu.edu.cn,Anhui University
+6,aufe.edu.cn,Anhui University of Finance and Economics
+7,bac.edu.cn,Beijing University of Agriculture
+8,bfsu.edu.cn,Beijing Foreign Studies University
+9,bhu.edu.cn,Bohai University
+10,bisu.edu.cn,Beijing International Studies University
+11,bit.edu.cn,Beijing Institute of Technology
+12,biti.edu.cn,Beijing Information Science and Technology University
+13,bjtu.edu.cn,Beijing Jiaotong University
+14,bjaeu.edu.cn,China Agriculture University East
+15,bjfu.edu.cn,Beijing Forestry University
+16,bjmu.edu.cn,Beijing Medical University
+17,bjpeu.edu.cn,Beijing Petroleum University
+18,bjpu.edu.cn,Beijing Polytechnic University
+19,bjucmp.edu.cn,Beijing University of Chinese Medicine and Pharmacology
+20,blcu.edu.cn,Beijing Language and Culture University
+21,bnu.edu.cn,Beijing Normal University
+22,bsu.edu.cn,Beijing Sport University
+23,buaa.edu.cn,Beijing University of Aeronautics and Astronautics
+24,buct.edu.cn,Beijing University of Chemical Technology
+25,bupt.edu.cn,Beijing University of Posts and Telecommunications
+26,cafa.edu.cn,Central Academy of  Fine Art
+27,cauc.edu,Civil Aviation University of China
+28,cau.edu.cn,China Agricultural University
+29,ccnu.edu.cn,Central China Normal University
+30,ccut.edu.cn,Changchun University of Technology
+31,cdu.edu.cn,Chengdu University
+32,cdutcm.edu.cn,Chengdu University of Traditional Chinese Medicine
+33,cdut.edu.cn,Chengdu University of Technology
+34,cfau.edu.cn,China Foreign Affairs University
+35,chinaacademyofart.com,China Academy of Art
+36,cisisu.edu.cn,Chengdu Institute of Sichuan International Studies University
+37,cmu.edu.cn,China Medical University Shenyang
+38,cncnc.edu.cn,Changchun Teachers College
+39,cnu.edu.cn,Capital Normal University
+40,cppsu.edu.cn,Chinese People's Public Security University
+41,cpu.edu.cn,China Pharmaceutical University Nanjing
+42,cpums.edu.cn,Capital University of Medical Sciences
+43,cqec.net.cn,Chongqing Education College
+44,cqgyzy.com,Chongqing Vocational College of Public Transportation
+45,cqmu.edu.cn,Chongqing Medical University
+46,cqnu.edu.cn,Chongqing Normal University
+47,cqtcedu.com,Chongqing Telecommunication College
+48,cquc.edu.cn,Chongqing University of Communications
+49,cqu.edu.cn,Chongqing University
+50,cqupt.edu.cn,Chongqing University of Post and Telecommunications
+51,cqust.cn,Chongqing University of Science and Technology
+52,cqut.edu.cn,Chongqing University of Technology
+53,cqwu.net,Chongqing Wenli University
+54,crtvu.edu.cn,Central Radio and TV University
+55,csfu.edu.cn,Central South Forestry University
+56,csru.edu.cn,Changsha Railway University
+57,csu.edu.cn,Central South University
+58,csuep.edu.cn,Changsha University of Electric Power
+59,ctbu.edu.cn,Chongqing Technology and Business University
+60,ctgu.edu.cn,China Three Gorges University
+61,cubu.edu,China USA Business University
+62,cuc.edu.cn,Communication University of China
+63,cueb.edu.cn,Capital University of Economics and Business
+64,cufe.edu.cn,Central University of Finance and Economics
+65,cugb.edu.cn,China University of Geoscience Beijing
+66,cug.edu.cn,China University of Geosciences Wuhan
+67,cumtb.edu.cn,China University of Mining Technology - Beijing
+68,cumt.edu.cn,China University of Mining Technology - Xuzhou
+69,cun.edu.cn,Central University for Nationalities
+70,cupl.edu.cn,China University of Political Science and Law
+71,cyc.edu.cn,China youth college for political science
+72,dhu.edu.cn,"Donghua University, Shanghai"
+73,dlmedu.edu.cn,Dalian Medical University
+74,dlmu.edu.cn,Dalian Martime University
+75,dlu.edu.cn,Dalian University
+76,dlufl.edu.cn,Dalian University of Foreign Language
+77,dlut.edu.cn,Dalian University of Technology
+78,dufe.edu.cn,Dongbei University of Finance And Economics
+79,ecjtu.jx.cn,East China Jiao Tong University
+80,ecnu.edu.cn,East China Normal University
+81,ecust.edu.cn,East China University of Science and Technology
+82,emsfj.com,Emeishan Buddhist College
+83,fimmu.edu.cn,Southern Medial University
+84,fjau.edu.cn,Fujian Agricultural University
+85,fjmu.edu.cn,Fujian Medical University
+86,fjnu.edu.cn,Fujian Normal University
+87,fjtcm.edu.cn,Fujian University of Traditional Chinese Medicine
+88,fmmu.edu.cn,4th Military Medical University
+89,fosu.edu.cn,Foshan University
+90,fspu.edu.cn,Fushun Petroleum University
+91,fudan.edu.cn,Fudan University
+92,fzu.edu.cn,Fuzhou University
+93,gdin.edu.cn,Guangdong Polytechnic Normal University
+94,gdrtvu.edu.cn,Guangdong Radio & TV University
+95,gdufs.edu.cn,Guangdong University of Foreign Studies
+96,gdut.edu.cn,Guangdong University of Technology
+97,gsau.edu.cn,Gansu Agricultural University
+98,gsut.edu.cn,Gansu University of Technology
+99,guangztc.edu.cn,Guangzhou Normal University
+100,gxmu.edu.cn,Guangxi Medical University
+101,gxnu.edu.cn,Guangxi Normal University
+102,gxtcmu.edu.cn,Guangxi Traditional Chinese Medical University
+103,gxu.edu.cn,Guangxi University
+104,gxun.edu.cn,Guangxi University for Nationalities
+105,gzarts.edu.cn,Guangzhou Academy of Fine Art
+106,gzhtcm.edu.cn,Guangzhou University of Traditional Chinese Medicine
+107,gzhu.edu.cn,Guangzhou University
+108,gznu.edu.cn,Guizhou Normal University
+109,gzsums.edu.cn,Sun Yat-Sen University of Medical Sciences
+110,gzu.edu.cn,Guizhou University
+111,hainnu.edu.cn,Hainan Normal University
+112,hainu.edu.cn,Hainan University
+113,hbafa.com,Hebei Academy of Fine Art
+114,hbu.edu.cn,Hebei University
+115,hdpu.edu.cn,University of Petroleum (East China)
+116,hebau.edu.cn,Hebei Agricultural University
+117,hebeiuniteduniversity.com,Hebei United University
+118,hebmu.edu.cn,Hebei Medical University
+119,hebnu.edu.cn,Hebei Normal University
+120,hebust.edu.cn,Hebei University of Science and Technology
+121,hebut.edu.cn,Hebei University of Technology
+122,henannu.edu.cn,Henan Normal University
+123,henau.edu.cn,Henan Agriculture University
+124,henu.edu.cn,Henan Univeristy
+125,heuet.edu.cn,Hebei University of Economics and Trade
+126,hfut.edu.cn,Hefei University of Technology
+127,hhit.edu.cn,Huaihai Institute of Technology
+128,hhrtu.com,Huaihua Radio and Television University
+129,hhstu.edu.cn,Huanghe Science & Technology University
+130,hhuc.edu.cn,Hohai University Changzhou
+131,hhu.edu.cn,Hehai University
+132,hhu.edu.cn,Huaihua University
+133,hit.edu.cn,Harbin Institute of Technology
+134,hlaflru.edu.cn,Heilongjiang August 1st Reclamation University
+135,hljcu.edu.cn,Heilongjiang Commercial University
+136,hlju.edu.cn,Heilongjiang University
+137,hnfjxy.cn,Henan Buddhist College
+138,hqgc.net,Logistics Engineering University of PLA
+139,hqu.edu.cn,Huaqiao University Quanzhuo
+140,hrbeu.edu.cn,Harbin Engineering University
+141,hrbmu.edu.cn,Harbin Medical University
+142,hrbnu.edu.cn,Harbin Normal University
+143,hrbucea.edu.cn,Harbin University of Civil Engineering & Architecture
+144,hrbust.edu.cn,Harbin University of Science and Technology
+145,hubu.edu.cn,Hubei University
+146,hunau.net,Hunan Agricultural University
+147,hunnu.edu.cn,Hunan Normal University
+148,hunu.edu.cn,Hunan University
+149,hust.edu.cn,Huazhong University of Science and Technology
+150,hzau.edu.cn,Huazhong Agricultural University
+151,hzu.edu.cn,Huizhou University
+152,ibub.edu.cn,International Business University of Beijing
+153,imau.edu.cn,Inner Mongolia Agricultural University
+154,imnu.edu.cn,Inner Mongolia Normal University
+155,impu.edu.cn,Inner Mongolia Polytechnic University
+156,imu.edu.cn,Inner Mongolia University
+157,ipdbuu.com.cn,Beijing Union University
+158,jci.edu.cn,Jingdezhen China Institute
+159,jlau.edu.cn,Jilin Agricultural University
+160,jlu.edu.cn,Jilin University
+161,jmu.edu.cn,Jimei University
+162,jnu.edu.cn,Jinan University
+163,jsu.edu.cn,Jishou University
+164,jsust.edu.cn,Jiangsu University of Science and Technology
+165,jutcm.com,Jiangxi University of Traditional Chinese Medicine
+166,jut.edu.cn,Jilin University of Technology
+167,jxau.edu.cn,Jiangxi Agricultural University
+168,jxnu.edu.cn,Jiangxi Normal University
+169,jxufe.edu.cn,Jiangxi University of Finance and Economics
+170,jyu.edu.cn,Jiaying University
+171,kmust.edu.cn,Kunmimg University of Science and Technology
+172,lctu.edu.cn,Liaocheng Teachers University
+173,lidapoly.com,Shanghai Lida Polytechnic Institute
+174,lixin.edu.cn,Shanghai Lixin University of Commerce
+175,lnnu.edu.cn,Liaoning Normal University
+176,lntu.edu.cn,Liaoning Technical University
+177,lnu.edu.cn,Liaoning University
+178,lumei.edu.cn,Luxun Academy of Fine Art
+179,lzmc.edu.cn,Luzhou Medical College
+180,lzu.edu.cn,Lanzhou University
+181,nbu.edu.cn,Ningbo University
+182,nbut.edu.cn,Ningbo University of Technology
+183,ncepubj.edu.cn,North China Electric Power University
+184,ncu.edu.cn,Nanchang University
+185,ncut.edu.cn,North China University of Technology
+186,neau.edu.cn,Northeast Agricultural University
+187,nefu.edu.cn,Northeast Forest University
+188,neijtc.edu.cn,Neijiang Teacher University
+189,nenu.edu.cn,Northeast Normal University
+190,neu.edu.cn,Northeastern University
+191,neuq.edu.cn,Northeast University at Qinhuangdao Campus
+192,newasia.bj.edu.cn,Beijing New Asia University
+193,njau.edu.cn,Nanjing Agricultural University
+194,njfu.edu.cn,Nanjing Forestry University
+195,njim.edu.cn,Nanjing Institute of Meteorology
+196,njmu.edu.cn,Nanjing Medical University
+197,njnu.edu.cn,Nanjing Normal University
+198,njtu.edu.cn,Northern Jiaotong University
+199,njuct.edu.cn,Nanjing University of Chemical Technology
+200,nju.edu.cn,Nanjing University
+201,njue.edu.cn,Nanjing University of Economics
+202,njupt.edu.cn,Nanjing University of Posts and Telecommunications
+203,njust.edu.cn,Nanjing University of Science and Technology
+204,njutcm.edu.cn,Nanjing University of Traditional Chinese Medicine
+205,njuts.cn,Nanjing Union Theological Seminary
+206,nku.nankai.edu.cn,Nankai University
+207,nottingham.edu.cn,The University of Nottingham Ningbo China
+208,nsmc.edu.cn,Northern Sichuan Medical College
+209,nuaa.edu.cn,Nanjing University of Aeronautics and Astronautics
+210,nudt.edu.cn,National University of Defense Technology
+211,nwau.edu.cn,Northwest A&F University
+212,nwnu.edu.cn,Northwest Normal University Lanzhou
+213,nwpu.edu.cn,Northwest Polytechnical University Xi'an
+214,nwu.edu.cn,Northwest University Xi'an
+215,nxmc.edu.cn,Ningxia Medical College
+216,nxu.edu.cn,Ningxia University
+217,ouc.edu.cn,Ocean University of China
+218,peizheng.com.cn,Guangdong Peizheng College
+219,pku.edu.cn,Peking University
+220,pzhu.edu.cn,Panzhihua University
+221,qdu.edu.cn,Qingdao University
+222,qfnu.edu.cn,Qufu Normal University
+223,qhnu.edu.cn,Qinghai Normal University
+224,qhrtvu.edu.cn,Qinghai Radio & Television University
+225,qhu.edu.cn,Qinghai University
+226,qust.edu.cn,Qingdao University of Science and Technology
+227,qzu.edu.cn,Qiongzhou University
+228,ruc.edu.cn,Renmin University of China
+229,sandau.edu.cn,Shanghai Sanda University
+230,sanxiau.edu.cn,Chongqing Three Gorges University
+231,sbs.edu.cn,Shanghai Business School
+232,scau.edu.cn,South China Agricultural University
+233,sccu.edu.cn,South China Construction University
+234,scnu.edu.cn,South China Normal University
+235,scu.edu.cn,Sichuan University
+236,scut.edu.cn,South China University of Technology
+237,sdada.edu.cn,Shandong University of Art and Design
+238,sdau.edu.cn,Shandong Agricultural University
+239,sdie.edu.cn,Shandong Economic University
+240,sdju.edu.cn,Shanghai Dainji University
+241,sdmu.edu.cn,Shandong Medical University
+242,sdnu.edu.cn,Shandong Normal University
+243,sdu.edu.cn,Shandong University
+244,sdust.edu.cn,Shandong University of Science and Technology
+245,sdutcm.edu.cn,Shandong University of Triaditional Chinese Medicine
+246,sdut.edu.cn,Shandong University of Technology
+247,sdufe.edu.cn,Shandong University of Finance and Economics
+248,seu.edu.cn,Southeast University
+249,sgu.edu.cn,Shaoguan University
+250,shanghai_edu.customs.gov.cn,Shanghai Customs College
+251,shfu.edu.cn,Shanghai Fisheries University
+252,shift.edu.cn,Shanghai Institue of Foreign Trade
+253,shisu.edu.cn,Shanghai International Studies University
+254,shmtu.edu.cn,Shanghai Maritime University
+255,shmu.edu.cn,Shanghai Medical University
+256,shouhua.net.cn,Shanghai Ouhua Vocational Technical College
+257,sh-sipopolytechnic.com,Shanghai Sipo Polytechnic
+258,shsmu.edu.cn,Shanghai Second Medical University
+259,shspu.edu.cn,Shanghai Second Polytechnic University
+260,shtdu.edu.cn,Shanghai TieDao University
+261,shtu.edu.cn,Shanghai Normal University
+262,shtvu.edu.cn,Shanghai Television University
+263,shu.edu.cn,Shanghai University
+264,shufe.edu.cn,Shanghai University of Finance and Economics
+265,shutcm.edu.cn,Shanghai University of Traditional Chinese Medicine and Pharmacology
+266,shzu.edu.cn,Shihezi University
+267,sicau.edu.cn,Sichuan Agricultural University
+268,sicnu.edu.cn,Sichuan Normal University
+269,sisu.edu.cn,Sichuan International Studies University
+270,sjtu.edu.cn,Shanghai Jiaotong University
+271,sjzu.edu.cn,Shenyang Jianzhu University
+272,smmu.edu.cn,2nd Military Medical University
+273,snnu.edu.cn,Shaanxi Normal University
+274,snnu.edu.cn,Shanxi Normal University
+275,stu.edu.cn,Shantou University
+276,suda.edu.cn,Suzhou University
+277,sues.edu.cn,Shanghai University of Engineering Science
+278,sustc.edu.cn,South University of Science and Technology of China
+279,swau.edu.cn,Southwest Agricultural University
+280,swfc.edu.cn,Southwest Forestry University
+281,swjtu.edu.cn,Southwest Jiaotong University
+282,swnu.edu.cn,Southwest University
+283,swpu.edu.cn,Southwest Petroleum University
+284,swsm.cn,Chongqing Normal University Foreign Trade and Business College
+285,swufe.edu.cn,Southwest University of Finance and Economics
+286,swun.edu.cn,Southwest University of Nationalities
+287,swupl.edu.cn,Southwest University of Political Science and Law
+288,swust.edu.cn,Southwest University of Science and Technology
+289,swuyc.edu.cn,South West University Yucai College
+290,sxau.edu.cn,Shanxi Agricultural University
+291,sxu.edu.cn,Shanxi University
+292,syict.edu.cn,Shenyang Institute of Chemical Technology
+293,syphu.edu.cn,Shenyang Pharmaceutical University
+294,sypu.edu.cn,Shenyang Polytechnic University
+295,sytu.edu.cn,Southern Yangtze University
+296,syu.edu.cn,Shenyang University
+297,szu.edu.cn,Shenzhen University
+298,tijmu.edu.cn,Tianjin Medical University
+299,tjarts.edu.cn,Tianjin Academy of Fine Art
+300,tjcu.edu.cn,Tianjin University of Commerce
+301,tjmu.edu.cn,Tongji Medical University
+302,tjnu.edu.cn,Tianjin Normal University
+303,tjpu.edu.cn,Tianjin Polytechnic University
+304,tjrtvu.edu.cn,Tianjin Open University
+305,tju.edu.cn,Tianjin University
+306,tjufe.edu.cn,Tianjin University of Finance & Economics
+307,tjut.edu.cn,Tianjin University of Technology
+308,tmmu.edu.cn,3rd Military Medical University
+309,tongji.edu.cn,Tongji University
+310,tsinghua.edu.cn,Tsinghua University
+311,ttmc.edu.cn,Tibet Tibetan Medical College
+312,tyut.edu.cn,Taiyuan University of Technology
+313,tzc.edu.cn,Taizhou College
+314,uestc.edu.cn,University of Electronic Science and Technology of China
+315,uheeyc.edu.cn,University of Hydraulic Electric Engineering
+316,uibe.edu.cn,University of International Business and Economics
+317,ujn.edu.cn,University of Jinan
+318,umcollege.com,Shanghai City College
+319,usc.edu.cn,South China University
+320,usst.edu.cn,Shanghai University of Science and Technology
+321,ustb.edu.cn,Beijing University of Science and Technology
+322,ustb.edu.cn,University of Science and Technology Beijing
+323,ustc.edu.cn,University of Science and Technology of China
+324,utibet.edu.cn,Tibet University
+325,uvu.edu.cn,Urumqi Vocational University
+326,wcums.edu.cn,West China University of Medical Sciences
+327,wdsdjxy.com,Wudanshan Taoist College
+328,whapu.edu.cn,Wuhan Automobile Polytechnical University
+329,whtu.edu.cn,Wuhan Transportation University
+330,whu.edu.cn,Wuhan University
+331,whut.edu.cn,Wuhan University of Technology
+332,wsm.whu.edu.cn,Wuhan University School of Medicine
+333,wtusm.edu.cn,Wuhan Technical University of Surveying and Mapping
+334,wuhee.edu.cn,Wuhan University of Hydraulic and Electric Engineering
+335,wxuli.edu.cn,Wuxi University of Light Industry
+336,wyu.edu.cn,Wuyi University
+337,wzmu.net,Wenzhou Medical College
+338,wzu.edu.cn,Wenzhou University
+339,xafa.edu.cn,Xi'an Academy of Fine Art
+340,xahu.edu.cn,Xi'an Highway University
+341,xauat.edu.cn,Xi'an University of Architecture and Technology
+342,xaut.edu.cn,Xi'an University of Technology
+343,xhcom.edu.cn,Xinghai Conservatory of Music
+344,xidian.edu.cn,Xi'an University of Electronic Science and Technology
+345,xiju.edu.cn,Xijiang University
+346,xisu.edu.cn,Xi'an International Studies University
+347,xjau.edu.cn,Xinjiang Agriculture University
+348,xjnu.edu.cn,Xinjiang Normal University
+349,xjtlu.edu.cn,Xi'an Jiaotong-Liverpool University
+350,eurasia.edu,Xi'an Eurasia University
+351,xjtu.edu.cn,Xi'an Jiaotong University
+352,xju.edu.cn,Xinjiang University
+353,xjufe.edu.cn,Xinjiang University of Finance and Economics
+354,xmu.edu.cn,Xiamen University
+355,xtnu.edu.cn,Xiangtan Normal University
+356,xtu.edu.cn,Xiangtan University
+357,xza.cn,Tibet Agricultural and Animal Husbandry College
+358,xzmy.edu.cn,Tibet University of Nationalities
+359,xznu.edu.cn,Xuzhou Normal University
+360,yangtzeu.edu.cn,Yangtze University
+361,yau.edu.cn,Yan'an University
+362,ybu.edu.cn,Yanbian University
+363,ybust.edu.cn,Yanbian University of Science and Technology
+364,yizhuan.com,Huaihua Medical College
+365,ynau.edu.cn,Yunnan Agriculture University
+366,ynnu.edu.cn,Yunnan Normal University
+367,ynu.edu.cn,Yunnan University
+368,ysu.edu.cn,Yan Shan University
+369,ytet.edu.cn,Yantai Education Institute & Yantai Television University
+370,ytnc.edu.cn,Ludong University
+371,ytu.edu.cn,Yantai University
+372,yznu.cn,Yangtze Normal University
+373,yzu.edu.cn,Yangzhou University
+374,zdsoft.com.cn,Zhengda Software College
+375,zgfxy.cn,Buddhist Acamedy of China
+376,zhnut.edu.cn,Zhongnan University of Technology
+377,zjfc.edu.cn,Zhejiang Forestry University
+378,zjgsu.edu.cn,Zhejiang Gongshang University
+379,zjnu.edu.cn,Zhejiang Normal University
+380,zjou.edu.cn,Zhanjiang Ocean University
+381,zju.edu.cn,Zhejiang University
+382,zjut.edu.cn,Zhejiang University of Technology
+383,znuel.net,Zhongnan University of Economics and Law
+384,znufe.edu.cn,Zhongnan University of Finance and Economics
+385,zsb.scfai.edu.cn,Sichuan Fine Art Institute
+386,zstu.edu.cn,Zhejiang Sci-Tech University
+387,zsu.edu.cn,Zhongshan University
+388,zzgc.edu.cn,Zhengzhou Grain University
+389,zzut.edu.cn,Zhengzhou University of Technology
+390,cust.edu.cn & ieec.cust.edu.cn,Changchun University of Science and Technology
+391,stu.gcu.edu.cn,Guangzhou College of South China University of Technology
+392,xhu.edu.cn & stu.xhu.edu.cn & mail.xhu.edu.cn,Xihua University
+393,nuist.edu.cn,Nanjing University of Information Science and Technology
+394,lynu.edu.cn,Luoyang Normal University
+395,hbc.edu.cn,Hubei Business College
+396,ahmu.edu.cn,Anhui Medical University
+397,ahnu.edu.cn,Anhui Normal University
+398,ahsdxy.ah.edu.cn,Anhui Technical College of Water Resources and Hydroelectric Power
+399,ahtcm.edu.cn,Anhui University of Traditional Chinese Medicine
+400,ahu.edu.cn,Anhui University
+401,aufe.edu.cn,Anhui University of Finance and Economics
+402,bac.edu.cn,Beijing University of Agriculture
+403,bfsu.edu.cn,Beijing Foreign Studies University
+404,bhu.edu.cn,Bohai University
+405,bisu.edu.cn,Beijing International Studies University
+406,bit.edu.cn,Beijing Institute of Technology
+407,biti.edu.cn,Beijing Information Science and Technology University
+408,bjtu.edu.cn,Beijing Jiaotong University
+409,bjaeu.edu.cn,China Agriculture University East
+410,bjfu.edu.cn,Beijing Forestry University
+411,bjmu.edu.cn,Beijing Medical University
+412,bjpeu.edu.cn,Beijing Petroleum University
+413,bjpu.edu.cn,Beijing Polytechnic University
+414,bjucmp.edu.cn,Beijing University of Chinese Medicine and Pharmacology
+415,blcu.edu.cn,Beijing Language and Culture University
+416,bnu.edu.cn,Beijing Normal University
+417,bsu.edu.cn,Beijing Sport University
+418,buaa.edu.cn,Beijing University of Aeronautics and Astronautics
+419,buct.edu.cn,Beijing University of Chemical Technology
+420,bupt.edu.cn,Beijing University of Posts and Telecommunications
+421,cafa.edu.cn,Central Academy of  Fine Art
+422,cauc.edu,Civil Aviation University of China
+423,cau.edu.cn,China Agricultural University
+424,ccnu.edu.cn,Central China Normal University
+425,ccut.edu.cn,Changchun University of Technology
+426,cdu.edu.cn,Chengdu University
+427,cdutcm.edu.cn,Chengdu University of Traditional Chinese Medicine
+428,cdut.edu.cn,Chengdu University of Technology
+429,cfau.edu.cn,China Foreign Affairs University
+430,chinaacademyofart.com,China Academy of Art
+431,cisisu.edu.cn,Chengdu Institute of Sichuan International Studies University
+432,cmu.edu.cn,China Medical University Shenyang
+433,cncnc.edu.cn,Changchun Teachers College
+434,cnu.edu.cn,Capital Normal University
+435,cppsu.edu.cn,Chinese People's Public Security University
+436,cpu.edu.cn,China Pharmaceutical University Nanjing
+437,cpums.edu.cn,Capital University of Medical Sciences
+438,cqec.net.cn,Chongqing Education College
+439,cqgyzy.com,Chongqing Vocational College of Public Transportation
+440,cqmu.edu.cn,Chongqing Medical University
+441,cqnu.edu.cn,Chongqing Normal University
+442,cqtcedu.com,Chongqing Telecommunication College
+443,cquc.edu.cn,Chongqing University of Communications
+444,cqu.edu.cn,Chongqing University
+445,cqupt.edu.cn,Chongqing University of Post and Telecommunications
+446,cqust.cn,Chongqing University of Science and Technology
+447,cqut.edu.cn,Chongqing University of Technology
+448,cqwu.net,Chongqing Wenli University
+449,crtvu.edu.cn,Central Radio and TV University
+450,csfu.edu.cn,Central South Forestry University
+451,csru.edu.cn,Changsha Railway University
+452,csu.edu.cn,Central South University
+453,csuep.edu.cn,Changsha University of Electric Power
+454,ctbu.edu.cn,Chongqing Technology and Business University
+455,ctgu.edu.cn,China Three Gorges University
+456,cubu.edu,China USA Business University
+457,cuc.edu.cn,Communication University of China
+458,cueb.edu.cn,Capital University of Economics and Business
+459,cufe.edu.cn,Central University of Finance and Economics
+460,cugb.edu.cn,China University of Geoscience Beijing
+461,cug.edu.cn,China University of Geosciences Wuhan
+462,cumtb.edu.cn,China University of Mining Technology - Beijing
+463,cumt.edu.cn,China University of Mining Technology - Xuzhou
+464,cun.edu.cn,Central University for Nationalities
+465,cupl.edu.cn,China University of Political Science and Law
+466,cyc.edu.cn,China youth college for political science
+467,dhu.edu.cn,"Donghua University, Shanghai"
+468,dlmedu.edu.cn,Dalian Medical University
+469,dlmu.edu.cn,Dalian Martime University
+470,dlu.edu.cn,Dalian University
+471,dlufl.edu.cn,Dalian University of Foreign Language
+472,dlut.edu.cn,Dalian University of Technology
+473,dufe.edu.cn,Dongbei University of Finance And Economics
+474,ecjtu.jx.cn,East China Jiao Tong University
+475,ecnu.edu.cn,East China Normal University
+476,ecust.edu.cn,East China University of Science and Technology
+477,emsfj.com,Emeishan Buddhist College
+478,fimmu.edu.cn,Southern Medial University
+479,fjau.edu.cn,Fujian Agricultural University
+480,fjmu.edu.cn,Fujian Medical University
+481,fjnu.edu.cn,Fujian Normal University
+482,fjtcm.edu.cn,Fujian University of Traditional Chinese Medicine
+483,fmmu.edu.cn,4th Military Medical University
+484,fosu.edu.cn,Foshan University
+485,fspu.edu.cn,Fushun Petroleum University
+486,fudan.edu.cn,Fudan University
+487,fzu.edu.cn,Fuzhou University
+488,gdin.edu.cn,Guangdong Polytechnic Normal University
+489,gdrtvu.edu.cn,Guangdong Radio & TV University
+490,gdufs.edu.cn,Guangdong University of Foreign Studies
+491,gdut.edu.cn,Guangdong University of Technology
+492,gsau.edu.cn,Gansu Agricultural University
+493,gsut.edu.cn,Gansu University of Technology
+494,guangztc.edu.cn,Guangzhou Normal University
+495,gxmu.edu.cn,Guangxi Medical University
+496,gxnu.edu.cn,Guangxi Normal University
+497,gxtcmu.edu.cn,Guangxi Traditional Chinese Medical University
+498,gxu.edu.cn,Guangxi University
+499,gxun.edu.cn,Guangxi University for Nationalities
+500,gzarts.edu.cn,Guangzhou Academy of Fine Art
+501,gzhtcm.edu.cn,Guangzhou University of Traditional Chinese Medicine
+502,gzhu.edu.cn,Guangzhou University
+503,gznu.edu.cn,Guizhou Normal University
+504,gzsums.edu.cn,Sun Yat-Sen University of Medical Sciences
+505,gzu.edu.cn,Guizhou University
+506,hainnu.edu.cn,Hainan Normal University
+507,hainu.edu.cn,Hainan University
+508,hbafa.com,Hebei Academy of Fine Art
+509,hbu.edu.cn,Hebei University
+510,hdpu.edu.cn,University of Petroleum (East China)
+511,hebau.edu.cn,Hebei Agricultural University
+512,hebeiuniteduniversity.com,Hebei United University
+513,hebmu.edu.cn,Hebei Medical University
+514,hebnu.edu.cn,Hebei Normal University
+515,hebust.edu.cn,Hebei University of Science and Technology
+516,hebut.edu.cn,Hebei University of Technology
+517,henannu.edu.cn,Henan Normal University
+518,henau.edu.cn,Henan Agriculture University
+519,henu.edu.cn,Henan Univeristy
+520,heuet.edu.cn,Hebei University of Economics and Trade
+521,hfut.edu.cn,Hefei University of Technology
+522,hhit.edu.cn,Huaihai Institute of Technology
+523,hhrtu.com,Huaihua Radio and Television University
+524,hhstu.edu.cn,Huanghe Science & Technology University
+525,hhuc.edu.cn,Hohai University Changzhou
+526,hhu.edu.cn,Hehai University
+527,hhu.edu.cn,Huaihua University
+528,hit.edu.cn,Harbin Institute of Technology
+529,hlaflru.edu.cn,Heilongjiang August 1st Reclamation University
+530,hljcu.edu.cn,Heilongjiang Commercial University
+531,hlju.edu.cn,Heilongjiang University
+532,hnfjxy.cn,Henan Buddhist College
+533,hqgc.net,Logistics Engineering University of PLA
+534,hqu.edu.cn,Huaqiao University Quanzhuo
+535,hrbeu.edu.cn,Harbin Engineering University
+536,hrbmu.edu.cn,Harbin Medical University
+537,hrbnu.edu.cn,Harbin Normal University
+538,hrbucea.edu.cn,Harbin University of Civil Engineering & Architecture
+539,hrbust.edu.cn,Harbin University of Science and Technology
+540,hubu.edu.cn,Hubei University
+541,hunau.net,Hunan Agricultural University
+542,hunnu.edu.cn,Hunan Normal University
+543,hunu.edu.cn,Hunan University
+544,hust.edu.cn,Huazhong University of Science and Technology
+545,hzau.edu.cn,Huazhong Agricultural University
+546,hzu.edu.cn,Huizhou University
+547,ibub.edu.cn,International Business University of Beijing
+548,imau.edu.cn,Inner Mongolia Agricultural University
+549,imnu.edu.cn,Inner Mongolia Normal University
+550,impu.edu.cn,Inner Mongolia Polytechnic University
+551,imu.edu.cn,Inner Mongolia University
+552,ipdbuu.com.cn,Beijing Union University
+553,jci.edu.cn,Jingdezhen China Institute
+554,jlau.edu.cn,Jilin Agricultural University
+555,jlu.edu.cn,Jilin University
+556,jmu.edu.cn,Jimei University
+557,jnu.edu.cn,Jinan University
+558,jsu.edu.cn,Jishou University
+559,jsust.edu.cn,Jiangsu University of Science and Technology
+560,jutcm.com,Jiangxi University of Traditional Chinese Medicine
+561,jut.edu.cn,Jilin University of Technology
+562,jxau.edu.cn,Jiangxi Agricultural University
+563,jxnu.edu.cn,Jiangxi Normal University
+564,jxufe.edu.cn,Jiangxi University of Finance and Economics
+565,jyu.edu.cn,Jiaying University
+566,kmust.edu.cn,Kunmimg University of Science and Technology
+567,lctu.edu.cn,Liaocheng Teachers University
+568,lidapoly.com,Shanghai Lida Polytechnic Institute
+569,lixin.edu.cn,Shanghai Lixin University of Commerce
+570,lnnu.edu.cn,Liaoning Normal University
+571,lntu.edu.cn,Liaoning Technical University
+572,lnu.edu.cn,Liaoning University
+573,lumei.edu.cn,Luxun Academy of Fine Art
+574,lzmc.edu.cn,Luzhou Medical College
+575,lzu.edu.cn,Lanzhou University
+576,nbu.edu.cn,Ningbo University
+577,nbut.edu.cn,Ningbo University of Technology
+578,ncepubj.edu.cn,North China Electric Power University
+579,ncu.edu.cn,Nanchang University
+580,ncut.edu.cn,North China University of Technology
+581,neau.edu.cn,Northeast Agricultural University
+582,nefu.edu.cn,Northeast Forest University
+583,neijtc.edu.cn,Neijiang Teacher University
+584,nenu.edu.cn,Northeast Normal University
+585,neu.edu.cn,Northeastern University
+586,neuq.edu.cn,Northeast University at Qinhuangdao Campus
+587,newasia.bj.edu.cn,Beijing New Asia University
+588,njau.edu.cn,Nanjing Agricultural University
+589,njfu.edu.cn,Nanjing Forestry University
+590,njim.edu.cn,Nanjing Institute of Meteorology
+591,njmu.edu.cn,Nanjing Medical University
+592,njnu.edu.cn,Nanjing Normal University
+593,njtu.edu.cn,Northern Jiaotong University
+594,njuct.edu.cn,Nanjing University of Chemical Technology
+595,nju.edu.cn,Nanjing University
+596,njue.edu.cn,Nanjing University of Economics
+597,njupt.edu.cn,Nanjing University of Posts and Telecommunications
+598,njust.edu.cn,Nanjing University of Science and Technology
+599,njutcm.edu.cn,Nanjing University of Traditional Chinese Medicine
+600,njuts.cn,Nanjing Union Theological Seminary
+601,nku.nankai.edu.cn,Nankai University
+602,nottingham.edu.cn,The University of Nottingham Ningbo China
+603,nsmc.edu.cn,Northern Sichuan Medical College
+604,nuaa.edu.cn,Nanjing University of Aeronautics and Astronautics
+605,nudt.edu.cn,National University of Defense Technology
+606,nwau.edu.cn,Northwest A&F University
+607,nwnu.edu.cn,Northwest Normal University Lanzhou
+608,nwpu.edu.cn,Northwest Polytechnical University Xi'an
+609,nwu.edu.cn,Northwest University Xi'an
+610,nxmc.edu.cn,Ningxia Medical College
+611,nxu.edu.cn,Ningxia University
+612,ouc.edu.cn,Ocean University of China
+613,peizheng.com.cn,Guangdong Peizheng College
+614,pku.edu.cn,Peking University
+615,pzhu.edu.cn,Panzhihua University
+616,qdu.edu.cn,Qingdao University
+617,qfnu.edu.cn,Qufu Normal University
+618,qhnu.edu.cn,Qinghai Normal University
+619,qhrtvu.edu.cn,Qinghai Radio & Television University
+620,qhu.edu.cn,Qinghai University
+621,qust.edu.cn,Qingdao University of Science and Technology
+622,qzu.edu.cn,Qiongzhou University
+623,ruc.edu.cn,Renmin University of China
+624,sandau.edu.cn,Shanghai Sanda University
+625,sanxiau.edu.cn,Chongqing Three Gorges University
+626,sbs.edu.cn,Shanghai Business School
+627,scau.edu.cn,South China Agricultural University
+628,sccu.edu.cn,South China Construction University
+629,scnu.edu.cn,South China Normal University
+630,scu.edu.cn,Sichuan University
+631,scut.edu.cn,South China University of Technology
+632,sdada.edu.cn,Shandong University of Art and Design
+633,sdau.edu.cn,Shandong Agricultural University
+634,sdie.edu.cn,Shandong Economic University
+635,sdju.edu.cn,Shanghai Dainji University
+636,sdmu.edu.cn,Shandong Medical University
+637,sdnu.edu.cn,Shandong Normal University
+638,sdu.edu.cn,Shandong University
+639,sdust.edu.cn,Shandong University of Science and Technology
+640,sdutcm.edu.cn,Shandong University of Triaditional Chinese Medicine
+641,sdut.edu.cn,Shandong University of Technology
+642,sdufe.edu.cn,Shandong University of Finance and Economics
+643,seu.edu.cn,Southeast University
+644,sgu.edu.cn,Shaoguan University
+645,shanghai_edu.customs.gov.cn,Shanghai Customs College
+646,shfu.edu.cn,Shanghai Fisheries University
+647,shift.edu.cn,Shanghai Institue of Foreign Trade
+648,shisu.edu.cn,Shanghai International Studies University
+649,shmtu.edu.cn,Shanghai Maritime University
+650,shmu.edu.cn,Shanghai Medical University
+651,shouhua.net.cn,Shanghai Ouhua Vocational Technical College
+652,sh-sipopolytechnic.com,Shanghai Sipo Polytechnic
+653,shsmu.edu.cn,Shanghai Second Medical University
+654,shspu.edu.cn,Shanghai Second Polytechnic University
+655,shtdu.edu.cn,Shanghai TieDao University
+656,shtu.edu.cn,Shanghai Normal University
+657,shtvu.edu.cn,Shanghai Television University
+658,shu.edu.cn,Shanghai University
+659,shufe.edu.cn,Shanghai University of Finance and Economics
+660,shutcm.edu.cn,Shanghai University of Traditional Chinese Medicine and Pharmacology
+661,shzu.edu.cn,Shihezi University
+662,sicau.edu.cn,Sichuan Agricultural University
+663,sicnu.edu.cn,Sichuan Normal University
+664,sisu.edu.cn,Sichuan International Studies University
+665,sjtu.edu.cn,Shanghai Jiaotong University
+666,sjzu.edu.cn,Shenyang Jianzhu University
+667,smmu.edu.cn,2nd Military Medical University
+668,snnu.edu.cn,Shaanxi Normal University
+669,snnu.edu.cn,Shanxi Normal University
+670,stu.edu.cn,Shantou University
+671,suda.edu.cn,Suzhou University
+672,sues.edu.cn,Shanghai University of Engineering Science
+673,sustc.edu.cn,South University of Science and Technology of China
+674,swau.edu.cn,Southwest Agricultural University
+675,swfc.edu.cn,Southwest Forestry University
+676,swjtu.edu.cn,Southwest Jiaotong University
+677,swnu.edu.cn,Southwest University
+678,swpu.edu.cn,Southwest Petroleum University
+679,swsm.cn,Chongqing Normal University Foreign Trade and Business College
+680,swufe.edu.cn,Southwest University of Finance and Economics
+681,swun.edu.cn,Southwest University of Nationalities
+682,swupl.edu.cn,Southwest University of Political Science and Law
+683,swust.edu.cn,Southwest University of Science and Technology
+684,swuyc.edu.cn,South West University Yucai College
+685,sxau.edu.cn,Shanxi Agricultural University
+686,sxu.edu.cn,Shanxi University
+687,syict.edu.cn,Shenyang Institute of Chemical Technology
+688,syphu.edu.cn,Shenyang Pharmaceutical University
+689,sypu.edu.cn,Shenyang Polytechnic University
+690,sytu.edu.cn,Southern Yangtze University
+691,syu.edu.cn,Shenyang University
+692,szu.edu.cn,Shenzhen University
+693,tijmu.edu.cn,Tianjin Medical University
+694,tjarts.edu.cn,Tianjin Academy of Fine Art
+695,tjcu.edu.cn,Tianjin University of Commerce
+696,tjmu.edu.cn,Tongji Medical University
+697,tjnu.edu.cn,Tianjin Normal University
+698,tjpu.edu.cn,Tianjin Polytechnic University
+699,tjrtvu.edu.cn,Tianjin Open University
+700,tju.edu.cn,Tianjin University
+701,tjufe.edu.cn,Tianjin University of Finance & Economics
+702,tjut.edu.cn,Tianjin University of Technology
+703,tmmu.edu.cn,3rd Military Medical University
+704,tongji.edu.cn,Tongji University
+705,tsinghua.edu.cn,Tsinghua University
+706,ttmc.edu.cn,Tibet Tibetan Medical College
+707,tyut.edu.cn,Taiyuan University of Technology
+708,tzc.edu.cn,Taizhou College
+709,uestc.edu.cn,University of Electronic Science and Technology of China
+710,uheeyc.edu.cn,University of Hydraulic Electric Engineering
+711,uibe.edu.cn,University of International Business and Economics
+712,ujn.edu.cn,University of Jinan
+713,umcollege.com,Shanghai City College
+714,usc.edu.cn,South China University
+715,usst.edu.cn,Shanghai University of Science and Technology
+716,ustb.edu.cn,Beijing University of Science and Technology
+717,ustb.edu.cn,University of Science and Technology Beijing
+718,ustc.edu.cn,University of Science and Technology of China
+719,utibet.edu.cn,Tibet University
+720,uvu.edu.cn,Urumqi Vocational University
+721,wcums.edu.cn,West China University of Medical Sciences
+722,wdsdjxy.com,Wudanshan Taoist College
+723,whapu.edu.cn,Wuhan Automobile Polytechnical University
+724,whtu.edu.cn,Wuhan Transportation University
+725,whu.edu.cn,Wuhan University
+726,whut.edu.cn,Wuhan University of Technology
+727,wsm.whu.edu.cn,Wuhan University School of Medicine
+728,wtusm.edu.cn,Wuhan Technical University of Surveying and Mapping
+729,wuhee.edu.cn,Wuhan University of Hydraulic and Electric Engineering
+730,wxuli.edu.cn,Wuxi University of Light Industry
+731,wyu.edu.cn,Wuyi University
+732,wzmu.net,Wenzhou Medical College
+733,wzu.edu.cn,Wenzhou University
+734,xafa.edu.cn,Xi'an Academy of Fine Art
+735,xahu.edu.cn,Xi'an Highway University
+736,xauat.edu.cn,Xi'an University of Architecture and Technology
+737,xaut.edu.cn,Xi'an University of Technology
+738,xhcom.edu.cn,Xinghai Conservatory of Music
+739,xidian.edu.cn,Xi'an University of Electronic Science and Technology
+740,xiju.edu.cn,Xijiang University
+741,xisu.edu.cn,Xi'an International Studies University
+742,xjau.edu.cn,Xinjiang Agriculture University
+743,xjnu.edu.cn,Xinjiang Normal University
+744,xjtlu.edu.cn,Xi'an Jiaotong-Liverpool University
+745,eurasia.edu,Xi'an Eurasia University
+746,xjtu.edu.cn,Xi'an Jiaotong University
+747,xju.edu.cn,Xinjiang University
+748,xjufe.edu.cn,Xinjiang University of Finance and Economics
+749,xmu.edu.cn,Xiamen University
+750,xtnu.edu.cn,Xiangtan Normal University
+751,xtu.edu.cn,Xiangtan University
+752,xza.cn,Tibet Agricultural and Animal Husbandry College
+753,xzmy.edu.cn,Tibet University of Nationalities
+754,xznu.edu.cn,Xuzhou Normal University
+755,yangtzeu.edu.cn,Yangtze University
+756,yau.edu.cn,Yan'an University
+757,ybu.edu.cn,Yanbian University
+758,ybust.edu.cn,Yanbian University of Science and Technology
+759,yizhuan.com,Huaihua Medical College
+760,ynau.edu.cn,Yunnan Agriculture University
+761,ynnu.edu.cn,Yunnan Normal University
+762,ynu.edu.cn,Yunnan University
+763,ysu.edu.cn,Yan Shan University
+764,ytet.edu.cn,Yantai Education Institute & Yantai Television University
+765,ytnc.edu.cn,Ludong University
+766,ytu.edu.cn,Yantai University
+767,yznu.cn,Yangtze Normal University
+768,yzu.edu.cn,Yangzhou University
+769,zdsoft.com.cn,Zhengda Software College
+770,zgfxy.cn,Buddhist Acamedy of China
+771,zhnut.edu.cn,Zhongnan University of Technology
+772,zjfc.edu.cn,Zhejiang Forestry University
+773,zjgsu.edu.cn,Zhejiang Gongshang University
+774,zjnu.edu.cn,Zhejiang Normal University
+775,zjou.edu.cn,Zhanjiang Ocean University
+776,zju.edu.cn,Zhejiang University
+777,zjut.edu.cn,Zhejiang University of Technology
+778,znuel.net,Zhongnan University of Economics and Law
+779,znufe.edu.cn,Zhongnan University of Finance and Economics
+780,zsb.scfai.edu.cn,Sichuan Fine Art Institute
+781,zstu.edu.cn,Zhejiang Sci-Tech University
+782,zsu.edu.cn,Zhongshan University
+783,zzgc.edu.cn,Zhengzhou Grain University
+784,zzut.edu.cn,Zhengzhou University of Technology
+785,cust.edu.cn & ieec.cust.edu.cn,Changchun University of Science and Technology
+786,stu.gcu.edu.cn,Guangzhou College of South China University of Technology
+787,xhu.edu.cn & stu.xhu.edu.cn & mail.xhu.edu.cn,Xihua University
+788,nuist.edu.cn,Nanjing University of Information Science and Technology
+789,lynu.edu.cn,Luoyang Normal University
+790,hbc.edu.cn,Hubei Business College
